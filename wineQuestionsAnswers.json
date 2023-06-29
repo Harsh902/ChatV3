@@ -1,0 +1,112 @@
+{
+    "questions" : [
+        {
+            "author" : "bot",
+            "question" : "What is your name?",
+            "answerBeforePhraseIndex" : 5,
+            "phrases" : [
+                "is my name", "is what", "my name is", "i am", "i'm", "call me", "i am called"
+            ]
+        },
+        {
+            "author" : "bot",
+            "question" : "What is the color of the wine?",
+            "answerBeforePhraseIndex" : 1000,
+            "phrases" : ["red", "white", "rose"]
+        },
+        {
+            "author" : "bot",
+            "question" : "Type of wine?",
+            "answerBeforePhraseIndex" : 1000,
+            "phrases" : ["type"]
+        },
+        {   
+            "author" : "bot",
+            "question" : "is the wine young or old?",
+            "answerBeforePhraseIndex" : 0,
+            "phrases": ["young", "old"]
+        },
+        {
+            "author" : "bot",
+            "question" : "Origin?",
+            "answerBeforePhraseIndex" : 0,
+            "phrases": ["it is from", "it was made in", "location is", "origin is", "originally from", "made in", "manufactured in", "from", "manufactured", "origin", "location", "in"]
+        },
+        {
+            "author" : "bot",
+            "question" : "Sugar content of wine?",
+            "answerBeforePhraseIndex" : 2,
+            "phrases": ["%", "percent", "dry", "semi dry", "half dry"]
+        },
+        {   
+            "author" : "bot",
+            "question" : "Alc. content of the wine?",
+            "answerBeforePhraseIndex": 3,
+            "phrases": ["%", "percent"]
+        },
+        {
+            "author" : "bot",
+            "question" : "Flavour gradient of the wine?",
+            "answerBeforePhraseIndex" : 0,
+            "phrases": ["sour", "bitter", "dry", "fruity", "acidic", "Oaky", "Tannic", "sweet", "body", "rich"]
+        },
+        {
+            "author" : "bot",
+            "question" : "Type of grape of the wine?"
+        },
+        {   
+            "author" : "bot",
+            "question" : "Taste components of the wine?"
+        },
+        {
+            "author" : "bot",
+            "question" : "Now let's get you food, are you vegan, vegetarian or non-vegetarian?",
+            "answerBeforePhraseIndex" : 0,
+            "phrases" : ["vegan", "vegetarian", "non-vegetarian"]
+        },
+        {
+            "author" : "bot",
+            "question" : "What type of cuisine do you prefer?"
+        },
+        {   
+            "author" : "bot",
+            "question" : "What type of meal do you want? Appetizer, Main course etc?"
+        },
+        {
+            "author" : "bot",
+            "question" : "Do you have any allergies?"
+        },
+        {
+            "author" : "bot",
+            "question" : "Do you have any restrictions?"
+        },
+        {   
+            "author" : "bot",
+            "question" : "How complex should the dish be?"
+        },
+        {
+            "author" : "bot",
+            "question" : "What taste do you prefer? \n(Note: This might NOT match your wine) \nWe'll try our best!"
+        },
+        {
+            "author" : "bot",
+            "question" : "Would you also like some recommendations for dessert?"
+        },
+        {   
+            "author" : "bot",
+            "question" : "What is the time of the year?"
+        },
+        {
+            "author" : "bot",
+            "question" : "Do you have any feedback for us?"
+        },
+        {
+            "author" : "bot",
+            "question" : "Are you satisfied with the wine? \nLet us know!"
+        },
+        {   
+            "author" : "bot",
+            "question" : "If you would like to edit the database, you can enter EDIT?"
+        }
+    ]
+}
